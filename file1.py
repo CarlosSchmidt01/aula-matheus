@@ -1,2 +1,2 @@
 print('Olá mundo!')
-print('Olá Universo!')
+print('Olá Universo! Terra chamando!')
